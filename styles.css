@@ -1,0 +1,128 @@
+body{
+	background-color: #6E3EFF;
+	/*background-image: url("https://funart.pro/uploads/posts/2021-04/thumbs/1618616137_37-funart_pro-p-oboi-fon-svetlii-rozovii-fon-37.png");*/
+}
+.header{
+	text-align: center;
+	font-family: sans-serif;
+
+	font-size: 29px;
+	font-style: Alegreya Sans Black;
+	margin-top: -60px;
+	background-color: #FEBAD0;
+	width: 100vw;
+	margin-left: calc(50% - 50vw);
+	padding-top: 30px;
+	
+	border-radius: 33px;
+}
+.header p{
+	font-size: 26px;
+}
+.button{
+	font-weight: 600;
+	border-width: 0px;
+	margin-top: 30px;
+	background-color: #6E3EFF;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 29px;
+	border-radius: 4px;
+	margin: 0 auto;
+	width: 330px;
+	height: 40px;
+
+
+
+}
+.formtext{
+	position:absolute;
+    left:50%;
+  	transform:translate(-50%);
+}
+.form{
+	margin-top: 90px;
+	position:absolute;
+    left:50%;
+  	transform:translate(-50%);
+}
+.field{
+	border-radius: 5px;
+	width: 200px;
+	height: 30px;
+	border-width: 2px;
+	margin-top: 5px;
+}
+
+.submit{
+	border-radius: 5px;
+	width: 200px;
+	height: 30px;
+	border-width: 2px;
+	margin-top: 15px;
+	margin-left: 3px;
+}
+
+.submit:hover{
+	background-color: #DCDCDC;
+}
+
+.button:hover{
+	opacity: 0.8;
+}
+.center{
+	margin: 0 auto;
+
+	margin-top: 10px;
+    
+    width: 330px;
+
+}
+.blocktext{
+
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 44px;
+
+	font-style: Alegreya Sans Black
+}
+.authblock{
+
+	background-color: #EDE9F8;
+	width:700px;
+	height: 400px;
+	margin: 0 auto;
+	margin-top: 100px;
+	border-radius: 9px;
+
+    
+}
+
+#back{
+	position: absolute;
+	top: -14px;
+	left: 0;
+}
+#back .submit{
+	width: 70px;
+	background-color: #FEDAE6;
+	border-color: #FFEBF7;
+}
+
+a{
+	color: #FAFAFA;
+	margin-left: 10px;
+}
+p{
+	text-align: center;
+}
+small{
+	color: #FAFAFA;
+	margin-left: 10px;
+}
+.bottom{
+	position: absolute;
+    bottom: 0;
+  	right: 15;
+}
+
